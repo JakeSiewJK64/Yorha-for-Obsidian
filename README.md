@@ -21,3 +21,6 @@ This theme is created and maintained by JakeSiewJK64.
 *Color scheme: [YoRHa (metakirby5.github.io)](https://metakirby5.github.io/yorha/)
 
 *The CSS modification is based on ["Sandstorm" by jaysan0](https://github.com/jaysan0/obsidian-sandstorm)
+
+## Disclaimer:
+All rights reserved to Platinum Games and Square Enix.
