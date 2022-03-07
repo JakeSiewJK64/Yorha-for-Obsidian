@@ -3662,7 +3662,7 @@ body.is-hovering-clickable * {
   mix-blend-mode: var(--highlight-mix-blend-mode);
 }
 .markdown-preview-view code {
-  color: var(--text-error);
+  color: #fff;
   font-family: var(--font-monospace);
   background-color: var(--background-primary-alt);
   border-radius: 4px;
