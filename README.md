@@ -12,7 +12,7 @@ This theme was made using the color pallete used in Nier Automata's GUI color sc
 4.  Restart Obsidian.
 
 ## Demo:
-![](https://github.com/JakeSiewJK64/Yorha-for-Obsidian/blob/main/demo.jpg?raw=true)
+![](https://raw.githubusercontent.com/JakeSiewJK64/Yorha-for-Obsidian/main/screenshot.jpg)
 
 ## Creator
 
